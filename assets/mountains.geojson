@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "name": "mountains",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 1,
+        "name": "Aconcagua",
+        "height": 6962,
+        "first_ascent": "Matthias Zurbriggen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.0107, -32.6533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 2,
+        "name": "Ojos del Salado",
+        "height": 6893,
+        "first_ascent": "R. Koedel, S. Veloso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.5375, -27.1094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 3,
+        "name": "Monte Pissis",
+        "height": 6793,
+        "first_ascent": "Karl Maria Herligkoffer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.9614, -27.7667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 4,
+        "name": "Huascarán",
+        "height": 6768,
+        "first_ascent": "Gabriel Zumaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.5322, -9.1394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 5,
+        "name": "Illimani",
+        "height": 6438,
+        "first_ascent": "William Martin Conway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.7817, -16.6383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 6,
+        "name": "Nevado Sajama",
+        "height": 6542,
+        "first_ascent": "Barreda, Vincent, Cadier, Pinto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.8844, -18.1042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 7,
+        "name": "Yerupajá",
+        "height": 6617,
+        "first_ascent": "Alain Mesili, Rudolf Wicky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6594, -10.2572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 8,
+        "name": "Coropuna",
+        "height": 6425,
+        "first_ascent": "Heinrich Harrer, Heinrich Pfannl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.6347, -15.5242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 9,
+        "name": "Huandoy",
+        "height": 6395,
+        "first_ascent": "Fritz Kasparek, Adolf Schulze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.5361, -9.1247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 10,
+        "name": "Nevado Tres Cruces",
+        "height": 6749,
+        "first_ascent": "Emilio Villarreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.7933, -27.0936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 11,
+        "name": "Ausangate",
+        "height": 6384,
+        "first_ascent": "Willy Merkl, Erwin Schneider"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.5244, -13.8022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 12,
+        "name": "Salcantay",
+        "height": 6271,
+        "first_ascent": "J. Röckel, G. Trescher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.5292, -13.3275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 13,
+        "name": "Cotopaxi",
+        "height": 5897,
+        "first_ascent": "Wilhelm Reiss, Angel Escobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.4361, -0.6836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 14,
+        "name": "Ampato",
+        "height": 6288,
+        "first_ascent": "Jürgen Wellenkamp, Hans Kinzl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.53, -15.7506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 15,
+        "name": "Llullaillaco",
+        "height": 6739,
+        "first_ascent": "Bourgeois, Jean-Baptiste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.8219, -24.7208]
+      }
+    }
+  ]
+}
